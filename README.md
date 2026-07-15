@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Hello, My name is Doctor but I go by Loel<br><br> 3rd year Electrical Engineering Computer Systems student @ Vaal University of Technology<br/><br>😶‍🌫️Ethical Hacker and full stack web developer<br/><br>💀 Programmer for IoT devices and more<br/><br>🎮  A pro RPG Gamer (Console & PC)<br/><br>I make content on tiktok about tech and coding @ (https://www.tiktok.com/@loel_codes?_t=ZM-8uvSSJP85X4&_r=1)
+# 😁 ME:
+### Hello Friend, My name is Loel<br><br> A Computer Systems student📚<br/><br>Cisco Certified Ethical Hacker😐 and full stack web developer<br/><br>Programmer and tinkers with IoT devices💀<br/><br>Gamer (Console & PC)🎮<br/><br>I make a few tech videos on tiktok@ (https://www.tiktok.com/@loel_codes?_t=ZM-8uvSSJP85X4&_r=1)
 
 
 ## 🌐 Socials:
