@@ -1,18 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b46,100:00f0ff&height=230&section=header&text=Doctor%20Mkhonza&fontSize=58&fontColor=00f0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cisco%20Certified%20Ethical%20Hacker&descSize=18&descColor=c9d1d9&descAlignY=60&animation=twinkling" width="100%" alt="Doctor Mkhonza banner" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Doctor+Mkhonza;Full+Stack+Developer+%F0%9F%92%BB;Cisco+NetAcad+Certified+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Embedded+%26+IoT+Tinkerer+%E2%9A%99%EF%B8%8F;Building+secure%2C+scalable+and+offline-first+systems" alt="Typing animation" />
-  </a>
+  <img src="assets/banner.svg" width="100%" alt="Doctor Mkhonza: Full Stack Developer and Cisco Certified Ethical Hacker" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00f0ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Location-Vanderbijlpark%2C_South_Africa-0d1117?style=for-the-badge&labelColor=0d1117&color=003b46" />
-  <img src="https://img.shields.io/badge/Studying-Engineering_%40_VUT-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8" />
 </p>
 
 <p align="center">
@@ -22,28 +14,9 @@
   <a href="https://hashnode.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 
----
-
-<!-- ============================== TERMINAL ============================== -->
-```console
-loel@kali:~$ whoami
-doctor_mkhonza
-
-loel@kali:~$ cat about.txt
-> 3rd-year engineering student at Vaal University of Technology (VUT)
-> Full stack dev who builds with Flask, Next.js, Docker and local AI (Ollama)
-> Hardware + software: ESP32, Raspberry Pi 5, solar power and IoT
-> Ethical hacker in training: Cisco NetAcad, Red Team Leaders, TryHackMe
-> Believes you are hopeless without the basics, so I keep going back to them
-
-loel@kali:~$ ./current_focus.sh
-[+] Endpoint security and network defence
-[+] Self-hosted, offline-safe AI systems
-[+] Automation with n8n on a Raspberry Pi 5
-[+] Writing about it all on Hashnode
-
-loel@kali:~$ _
-```
+<p align="center">
+  <img src="assets/terminal.svg" width="85%" alt="Animated terminal introducing Doctor Mkhonza" />
+</p>
 
 ---
 
@@ -160,6 +133,10 @@ loel@kali:~$ _
 
 <!-- ============================== CERTIFICATIONS ============================== -->
 ## 🎓 Certifications &amp; Credentials
+
+<p align="center">
+  <img src="assets/ticker.svg" width="100%" alt="Scrolling ticker of certifications" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-00b4d8?style=for-the-badge&logo=cisco&logoColor=white" />
