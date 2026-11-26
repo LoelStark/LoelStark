@@ -18,10 +18,14 @@
   <img src="assets/terminal.svg" width="85%" alt="Animated terminal introducing Doctor Mkhonza" />
 </p>
 
+<p align="center">
+  <img src="assets/player-hud.svg" width="100%" alt="Player profile: skill ranks and achievements unlocked" />
+</p>
+
 ---
 
 <!-- ============================== TECH STACK ============================== -->
-## 🛠️ Tech Stack
+## 🎒 Loadout (Tech Stack)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,nextjs,html,css,flask,sqlite,mysql,docker,bash,git,github&perline=14" alt="Dev stack" />
@@ -41,7 +45,7 @@
 ---
 
 <!-- ============================== PROJECTS ============================== -->
-## 🚀 Featured Projects
+## 🎯 Missions (Featured Projects)
 
 <table>
   <tr>
@@ -132,7 +136,7 @@
 ---
 
 <!-- ============================== CERTIFICATIONS ============================== -->
-## 🎓 Certifications &amp; Credentials
+## 🏆 Achievements Unlocked (Certifications)
 
 <p align="center">
   <img src="assets/ticker.svg" width="100%" alt="Scrolling ticker of certifications" />
@@ -175,7 +179,7 @@
 ---
 
 <!-- ============================== FOCUS ============================== -->
-## 🧭 Focus Areas
+## 🧭 Skill Trees (Focus Areas)
 
 <table>
   <tr>
@@ -189,18 +193,20 @@
 ---
 
 <!-- ============================== BEYOND THE CODE ============================== -->
-## 🎮 Beyond The Code
+## 🎮 Off-Duty: Anime &amp; Gaming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gaming-PlayStation_%7C_PC-003791?style=flat-square&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Favourites-Ghost_of_Y%C5%8Dtei_%7C_TLOU_%7C_AC-black?style=flat-square&logo=gamepad&logoColor=white" />
+  <img src="assets/favourites.svg" width="100%" alt="Favourites: Classroom of the Elite, Grand Theft Auto VI, The Last of Us Part II" />
+</p>
+
+<p align="center">
   <a href="https://www.tiktok.com/@loel_codes?_t=ZM-8uvSSJP85X4&_r=1"><img src="https://img.shields.io/badge/Content-TikTok_@loel__codes-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- ============================== METRICS ============================== -->
-## 📊 Development Metrics
+## 📊 Stats Screen (Development Metrics)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LoelStark&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=003b46" width="49%" />
@@ -218,9 +224,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=700&lines=%22No+matter+how+advanced+you+may+be%2C+you+are+hopeless+without+the+basics.%22;Always+learning.+Always+building.+Always+securing." alt="Footer quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:003b46,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="Footer: always learning, always building, always securing" />
 </p>
