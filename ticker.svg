@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 46" width="1000" height="46">
+<defs>
+  <linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+  <mask id="m"><rect width="1000" height="46" fill="url(#f)"/></mask>
+  <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".5" stop-color="#00f0ff"/><stop offset="1" stop-color="#00f0ff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1000" height="46" rx="8" fill="#0d1117"/>
+<rect y="1" width="1000" height="2" fill="url(#ln)"/><rect y="43" width="1000" height="2" fill="url(#ln)"/>
+<g mask="url(#m)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-2313.6 0" dur="33.1s" repeatCount="indefinite"/>
+    <text x="0" y="29" textLength="2313.6" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',monospace" font-size="16" fill="#00f0ff">CISCO ETHICAL HACKER  //  ENDPOINT SECURITY  //  CCNA: INTRO TO NETWORKS  //  INTRO TO CYBERSECURITY  //  INTRO TO DATA SCIENCE  //  RED TEAM LEADERS CCEP  //  DELOITTE CYBER SIMULATION  //  AWS EDUCATE GEN AI  //  SAIEE STUDENT MEMBER  //  </text>
+    <text x="2313.6" y="29" textLength="2313.6" lengthAdjust="spacing" xml:space="preserve" font-family="'Courier New',monospace" font-size="16" fill="#00f0ff">CISCO ETHICAL HACKER  //  ENDPOINT SECURITY  //  CCNA: INTRO TO NETWORKS  //  INTRO TO CYBERSECURITY  //  INTRO TO DATA SCIENCE  //  RED TEAM LEADERS CCEP  //  DELOITTE CYBER SIMULATION  //  AWS EDUCATE GEN AI  //  SAIEE STUDENT MEMBER  //  </text>
+  </g>
+</g>
+</svg>
